@@ -9,7 +9,7 @@ description:
 keywords:
 author: 魏玮
 language: zh
-timezone: CN
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -74,7 +74,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
-theme: maupassant
+theme: sky
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
