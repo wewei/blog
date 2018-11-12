@@ -1,6 +1,3 @@
-[submodule "themes/maupassant"]
-	path = themes/maupassant
-	url = git@github.com:wewei/maupassant-hexo.git
-[submodule "themes/sky"]
-	path = themes/sky
-	url = git@github.com:wewei/hexo-theme-sky.git
+[submodule "themes/anisina"]
+	path = themes/anisina
+	url = git@github.com:wewei/hexo-theme-Anisina.git
