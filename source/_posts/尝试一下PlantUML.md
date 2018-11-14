@@ -1,7 +1,7 @@
 ---
 title: 尝试一下PlantUML
 date: 2018-11-11 00:14:36
-tags: hexo puml
+tags: [hexo, puml]
 ---
 ```plantuml
 start
