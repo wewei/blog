@@ -4,7 +4,7 @@
 
 # Site
 title: 锵锵杂记
-subtitle:
+subtitle: 信马由缰无主题记事本
 description:
 keywords:
 author: 魏玮
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: anisina
+theme: typography
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
